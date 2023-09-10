@@ -1,0 +1,48 @@
+.sidebar{
+    position: fixed;
+    display: flexbox;
+    top: 60px;
+    bottom: 0;
+    left: 0;
+    width: 80px;
+    background-color: white;
+}
+.sidebar-logo{height: 80px;
+    width: 80px;
+
+}
+
+.home-button,
+.explore-button
+,.subs-button
+,.originals-button
+,.youtube-music-button
+,.library-button{
+    height: 80px;
+    width: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9px;
+    background-color: rgba(0, 0, 255, 0);
+    border: none;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+.home-icon,
+.explore-icon,
+.subscriptions-icon,
+.originals-icon,
+.youtube-music-icon,
+.library-icon{
+    height: 25px;
+    width: 25px;
+}
+
+.home-button:hover,
+.explore-button:hover
+,.subs-button:hover
+,.originals-button:hover
+,.youtube-music-button:hover
+,.library-button:hover{
+    background-color: rgb(233, 233, 233);
+    
+}
