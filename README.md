@@ -51,13 +51,3 @@ This project is designed to work in modern browsers that support:
 
 ![YouTube Clone Demo](./demo/demo.png)
 
-## Future Improvements
-
-- Add responsive design for mobile devices
-- Implement dark mode
-- Add more interactive features
-- Include JavaScript functionality
-
-## License
-
-[Add your chosen license here]
